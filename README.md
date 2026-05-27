@@ -1,3 +1,5 @@
+
+
 #  KaryoTrainer_Student_Module_Demo 🚀
 
 This repository includes an installable demo version of the **KaryoTrainer Student Module** Android app. 
@@ -15,4 +17,9 @@ This version has the following limitation:
 - 🚀 **Download** the KaryoTrainer_Student_Module_Demo.apk
 - 📁 **Install**: install by doulbe tap on the KaryoTrainer_Student_Module_Demo.apk
 - 📁 **Run**: tap on the **KaryoTrainer_Student_Module_Demo** icon in the app list.
+
+
+
+https://github.com/user-attachments/assets/963ed094-6315-4c12-8a4d-84b3ba001593
+
 
