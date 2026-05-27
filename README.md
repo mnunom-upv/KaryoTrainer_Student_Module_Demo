@@ -19,6 +19,8 @@ This version has the following limitation:
 - 📁 **Run**: tap on the **KaryoTrainer_Student_Module_Demo** icon in the app list.
 
 
+Next you can see a video showing the **KaryoTrainer Student Module* capabilites
+
 
 https://github.com/user-attachments/assets/963ed094-6315-4c12-8a4d-84b3ba001593
 
